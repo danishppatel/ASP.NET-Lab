@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ASP.NET\\Calender\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FE0B0B-6BCD-44BD-BB61-ADA757C3814D}|Calender\\Calender.csproj|c:\\asp.net\\calender\\calender\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{E6FE0B0B-6BCD-44BD-BB61-ADA757C3814D}|Calender\\Calender.csproj|solutionrelative:calender\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FE0B0B-6BCD-44BD-BB61-ADA757C3814D}|Calender\\Calender.csproj|c:\\asp.net\\calender\\calender\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{E6FE0B0B-6BCD-44BD-BB61-ADA757C3814D}|Calender\\Calender.csproj|solutionrelative:calender\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FE0B0B-6BCD-44BD-BB61-ADA757C3814D}|Calender\\Calender.csproj|c:\\asp.net\\calender\\calender\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E6FE0B0B-6BCD-44BD-BB61-ADA757C3814D}|Calender\\Calender.csproj|solutionrelative:calender\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FE0B0B-6BCD-44BD-BB61-ADA757C3814D}|Calender\\Calender.csproj|c:\\asp.net\\calender\\calender\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FE0B0B-6BCD-44BD-BB61-ADA757C3814D}|Calender\\Calender.csproj|solutionrelative:calender\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FE0B0B-6BCD-44BD-BB61-ADA757C3814D}|Calender\\Calender.csproj|c:\\asp.net\\calender\\calender\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FE0B0B-6BCD-44BD-BB61-ADA757C3814D}|Calender\\Calender.csproj|solutionrelative:calender\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FE0B0B-6BCD-44BD-BB61-ADA757C3814D}|Calender\\Calender.csproj|c:\\asp.net\\calender\\calender\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FE0B0B-6BCD-44BD-BB61-ADA757C3814D}|Calender\\Calender.csproj|solutionrelative:calender\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\ASP.NET\\Calender\\Calender\\Site.Master",
+              "RelativeDocumentMoniker": "Calender\\Site.Master",
+              "ToolTip": "C:\\ASP.NET\\Calender\\Calender\\Site.Master",
+              "RelativeToolTip": "Calender\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-11T12:55:12.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Site.Mobile.Master",
+              "DocumentMoniker": "C:\\ASP.NET\\Calender\\Calender\\Site.Mobile.Master",
+              "RelativeDocumentMoniker": "Calender\\Site.Mobile.Master",
+              "ToolTip": "C:\\ASP.NET\\Calender\\Calender\\Site.Mobile.Master",
+              "RelativeToolTip": "Calender\\Site.Mobile.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-11T12:55:07.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\ASP.NET\\Calender\\Calender\\Web.config",
+              "RelativeDocumentMoniker": "Calender\\Web.config",
+              "ToolTip": "C:\\ASP.NET\\Calender\\Calender\\Web.config",
+              "RelativeToolTip": "Calender\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-11T12:55:01.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\Calender\\Calender\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Calender\\Global.asax.cs",
+              "ToolTip": "C:\\ASP.NET\\Calender\\Calender\\Global.asax.cs",
+              "RelativeToolTip": "Calender\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T12:54:44.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.aspx.designer.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\Calender\\Calender\\Default.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Calender\\Default.aspx.designer.cs",
+              "ToolTip": "C:\\ASP.NET\\Calender\\Calender\\Default.aspx.designer.cs",
+              "RelativeToolTip": "Calender\\Default.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T12:49:59.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\Calender\\Calender\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Calender\\Default.aspx.cs",
+              "ToolTip": "C:\\ASP.NET\\Calender\\Calender\\Default.aspx.cs",
+              "RelativeToolTip": "Calender\\Default.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T12:31:53.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿@page
+@model FirstWebApp.Pages.ContactModel
+@{
+}
+
+
+<h1>Contact Form</h1>
+
+@if(Model.hasData)
+{
+	<p>Hello  @Model.firstName @Model.lastName</p>
+	<p>We Received your following message :</p>
+	<p>@Model.message</p>
+}
+
+<div class="container">
+	<form method="post">
+		<label for="fname"> First Name</label> <br>
+		<input type="text" id="fname" name="firstname"/> <br>
+
+		<label for="lname"> Last Name</label> <br>
+		<input type="text" id="lname" name="lastname" /> <br>
+
+
+		<label for="message"> Message</label> <br>
+		<textarea id="message" name="message"  style="height:200px"></textarea> <br>
+
+		<input type="submit" value="Submit"/>
+	</form>
+</div>
